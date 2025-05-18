@@ -32,3 +32,16 @@ Each book in your list looks like this: (insert gif / image)
 - **ReactJS:** For building the interactive user interface.
 - **CSS:** For styling the app and making it look nice.
 - **Lorem Picsum:** For showing sample images for each book.
+
+## Example
+
+1. **Adding a Book:**  
+   Type "Harry Potter" in the input box and click "Create".  
+   "Harry Potter" will appear in your reading list.
+
+2. **Editing a Book:**  
+   Click the ✎ Edit button next to "Harry Potter".  
+   Change the title to "Harry Potter and the Sorcerer's Stone" and click "Save".
+
+3. **Deleting a Book:**  
+   Click the "Delete" button next to any book to remove it from your list.
