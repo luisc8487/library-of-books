@@ -16,3 +16,13 @@ This is a simple web application where you can keep track of books you want to r
 - If you edit a book's title, the list updates right away.
 - If you delete a book, it disappears from the list.
 - All changes happen on the page without needing to reload.
+
+## What Does It Look Like?
+
+Each book in your list looks like this: (insert gif / image)
+
+
+- The image is a random picture from [Lorem Picsum](https://picsum.photos/).
+- The title is what you entered.
+- The ✎ Edit button lets you change the title.
+- The Delete button removes the book.
