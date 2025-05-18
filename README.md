@@ -9,3 +9,10 @@ This is a simple web application where you can keep track of books you want to r
 - **Edit a Book:** Click the ✎ (Edit) button next to a book to change its title.
 - **Delete a Book:** Click the "Delete" button to remove a book from your list.
 - **View Books:** All your books are shown in a list, each with a title and a sample image.
+
+## How Does It Work?
+
+- When you add a book, it appears instantly in your list.
+- If you edit a book's title, the list updates right away.
+- If you delete a book, it disappears from the list.
+- All changes happen on the page without needing to reload.
