@@ -36,19 +36,13 @@ Each book in your list looks like this:
 
 ## Example
 
-![add book](https://github.com/user-attachments/assets/a604998d-3107-472f-8b94-bb9b5dd21cfb)
-
 1. **Adding a Book:**  
    Type "Harry Potter" in the input box and click "Create".  
    "Harry Potter" will appear in your reading list.
-   
-![editbook](https://github.com/user-attachments/assets/38515df5-398b-4041-be50-56412d9e36b8)
 
 3. **Editing a Book:**  
    Click the ✎ Edit button next to "Harry Potter".  
    Change the title to "Harry Potter and the Sorcerer's Stone" and click "Save".
-
-![deletebook](https://github.com/user-attachments/assets/a15dd53a-35b5-4573-99d1-f51b72304eaf)
 
 4. **Deleting a Book:**  
    Click the "Delete" button next to any book to remove it from your list.
