@@ -3,6 +3,9 @@
 Welcome to **Library of Books**!  
 This is a simple web application where you can keep track of books you want to read. You can add new books, update their titles, remove books, and see your reading list—all right in your browser.
 
+[![library-book](https://github.com/user-attachments/assets/9290f174-ec58-4a9d-b156-953bc779045c)
+](https://vimeo.com/1085475137?share=copy)
+
 ## What Can You Do?
 
 - **Add a Book:** Type in a book title and click "Create" to add it to your list.
