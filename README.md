@@ -26,3 +26,9 @@ Each book in your list looks like this: (insert gif / image)
 - The title is what you entered.
 - The ✎ Edit button lets you change the title.
 - The Delete button removes the book.
+
+## Technologies Used
+
+- **ReactJS:** For building the interactive user interface.
+- **CSS:** For styling the app and making it look nice.
+- **Lorem Picsum:** For showing sample images for each book.
