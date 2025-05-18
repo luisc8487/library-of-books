@@ -19,8 +19,9 @@ This is a simple web application where you can keep track of books you want to r
 
 ## What Does It Look Like?
 
-Each book in your list looks like this: (insert gif / image)
+Each book in your list looks like this:
 
+![library-books](https://github.com/user-attachments/assets/9f39d9b7-d940-4c79-b056-4de571672802)
 
 - The image is a random picture from [Lorem Picsum](https://picsum.photos/).
 - The title is what you entered.
