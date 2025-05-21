@@ -6,7 +6,11 @@ This is a simple web application where you can keep track of books you want to r
 [![library-book](https://github.com/user-attachments/assets/9290f174-ec58-4a9d-b156-953bc779045c)
 ](https://vimeo.com/1085475137?share=copy)
 
-## What Can You Do?
+### Why Use JSON Server?
+
+When building web apps, you usually need a backend—a place where your data lives. Setting up a real backend can be complicated, so JSON Server helps by pretending to be one. It stores your data in a file called `db.json` and lets you interact with it using standard web requests.
+
+### What Can You Do?
 
 - **Add a Book:** Type in a book title and click "Create" to add it to your list.
 - **Edit a Book:** Click the ✎ (Edit) button next to a book to change its title.
@@ -41,9 +45,9 @@ Each book in your list looks like this:
    Type "Harry Potter" in the input box and click "Create".  
    "Harry Potter" will appear in your reading list.
 
-3. **Editing a Book:**  
+2. **Editing a Book:**  
    Click the ✎ Edit button next to "Harry Potter".  
    Change the title to "Harry Potter and the Sorcerer's Stone" and click "Save".
 
-4. **Deleting a Book:**  
+3. **Deleting a Book:**  
    Click the "Delete" button next to any book to remove it from your list.
